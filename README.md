@@ -8,4 +8,4 @@ The patterns are categorized by their intention group:
 - Structural
 - Behavioral
 
-[book] : https://refactoring.guru/design-patterns/book
+[book]: https://refactoring.guru/design-patterns/book
